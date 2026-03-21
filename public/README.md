@@ -1,6 +1,6 @@
 # Hosting your compliance pages
 
-You can host these static files on any free static host:
+You can host these static files on any free static host: 
 
 ## GitHub Pages (recommended)
 1. Create a new public repo or use an existing one.
