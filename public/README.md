@@ -4,7 +4,7 @@ You can host these static files on any free static host:
 
 ## GitHub Pages (recommended)
 1. Create a new public repo or use an existing one.
-2. Push the `public/` folder to the repo.
+2. Push the `public/` folder to the repo. 
 3. In repo Settings → Pages, set source to `main` (or `gh-pages`) and `/public` folder.
 4. GitHub will give you a public URL like `https://yourusername.github.io/repo/`.
 
