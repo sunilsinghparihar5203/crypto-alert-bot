@@ -10,7 +10,7 @@ You can host these static files on any free static host:
 
 ## Netlify / Vercel
 1. Drag and drop the `public/` folder.
-2. You’ll get a public URL immediately.
+2. You’ll get a public URL immediately. 
 
 ## What to do with the URLs
 - Discord Developer Portal → Verification:
